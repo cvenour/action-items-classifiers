@@ -6,7 +6,7 @@ What is an "action item"? An action item is just a silly business term which mea
 For more information about the work here, see: https://www.youtube.com/watch?v=Oa9NZULXYdg&list=PLDZq-P7JWYyzzziWMkPlxPOH2-M0rsJGa&index=21
 
 
-Of these 5 classifiers, the fastai Language Model with classifier on top yields the best results:<br>
+Of the 5 classifiers appearing in this repository, the fastai Language Model with classifier on top yields the best results:<br>
 **88.3% precision** <br>
 **90.7% recall** <br>
 
