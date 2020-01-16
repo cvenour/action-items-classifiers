@@ -6,6 +6,6 @@ For more information about the work here, see: https://www.youtube.com/watch?v=O
 
 Of these 5 classifiers, the fastai Language Model with classifier on top yields the best results:<br>
 precision: 0.8828828828828829 <br>
-recall: 0.9074074074074074 >br>
+recall: 0.9074074074074074 <br>
 
 But as the video talks about, I also implemented a BERT solution that yielded even better results.
