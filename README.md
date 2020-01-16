@@ -1,6 +1,8 @@
 # action-items-classifiers
 Here is the code for 5 action item classifiers I implemented: xgboost, catboost, support vector machine, RNN + glove vectors. <br>
 
+What is an action item classifier? You feed the classifier sentences/utterances that were said at a meeting and this system decides whether the utterance is an action item or not. (An "action item" is a silly business term which means a task (i.e. something someone has to do).
+
 For more information about the work here, see: https://www.youtube.com/watch?v=Oa9NZULXYdg&list=PLDZq-P7JWYyzzziWMkPlxPOH2-M0rsJGa&index=21
 
 
