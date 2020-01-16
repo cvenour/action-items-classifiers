@@ -8,4 +8,4 @@ Of these 5 classifiers, the fastai Language Model with classifier on top yields 
 precision: 0.8828828828828829 <br>
 recall: 0.9074074074074074 <br>
 
-But as the video talks about, I also implemented a BERT solution that yielded even better results.
+But as the video in the link above talks about, I also implemented a BERT solution and that (6th solution) yielded even better results.
