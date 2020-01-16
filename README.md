@@ -11,5 +11,5 @@ Of these 5 classifiers, the fastai Language Model with classifier on top yields 
 **90.7% recall** <br>
 
 But as the video in the link above talks about, I also implemented a BERT solution and that (6th solution which is not included in this repository) yielded the best results of all: <br>
-88.5% precision <br>
-92.6% recall
+**88.5% precision** <br>
+**92.6% recall**
