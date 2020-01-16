@@ -1,5 +1,5 @@
 # Action Item Classifiers
-Here is the code for 5 action item classifiers I implemented: two decision trees (xgboost and catboost), a Support Vector Machine (SVM), a Recurrent Neural Network that uses glove vectors in its embedding space. <br>
+Here is the code for 5 action item classifiers I implemented: two decision trees (xgboost and catboost), a Support Vector Machine (SVM), a Recurrent Neural Network that uses glove vectors in its embedding space, and a Language Model pre-trained on wikitext-103 with a classifier added on top which is fine-tuned to recognize action items. <br>
 
 What is an action item classifier? It's fed sentences/utterances that were said at a meeting and it decides whether the utterance is an action item or not. (An "action item" is just a silly business term which means a task). So this system will automatically find, in the transcripts of meetings, tasks that were assigned to people.
 
